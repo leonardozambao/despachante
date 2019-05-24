@@ -1,4 +1,4 @@
-Funcionalidades:<br>
+Funcionalidades:<br><br>
 ‐ Cadastrar cliente:<br>
 Informar nome, telefone (podendo aceitar mais de um), cpf OU cnpj e dados básicos<br>
 de endereço. Pode ser pesquisado por Nome ou Cpf<br>
